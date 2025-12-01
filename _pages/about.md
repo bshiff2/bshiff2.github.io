@@ -7,43 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-This website was created using GitHub Pages with Jekyll, and is based on the Academic Pages template: https://github.com/academicpages/academicpages.github.io
+This website was created using GitHub Pages with Jekyll, and is based on the Academic Pages template: <a href=https://github.com/academicpages/academicpages.github.io></a>
 
 This page contains information about me, my skills, my interests, etc.
-Above is the navigation bar, which can take you to my resume (Resume) as well as my current github projects (Portfolio).
+Above is the navigation bar, which can take you to my Resume for a more complete collection of information about me, as well as my Portfolio of github projects.
 
 Bio
 ======
-I am Bryce Shifflett, a current undergraduate at Louisiana State Univeristy in my junior year. I'm majoring in Computer Science with a concentration on Cybersecurity. 
+My name is Bryce Shifflett, I'm currently an undergraduate at Louisiana State Univeristy in my junior year. I'm majoring in Computer Science with a concentration on Cybersecurity. Growing up, I've always been fasinated by the world of technology, and since middle school I've been taking STEM and Computer Science classes to satisify my thirst for knowledge on the subject. I've taken this drive to college, where I seek to further my education and practice my skills. I seek to continue this outside of college and after I graduate, searching for interships and other opportunities to learn more not just about Computer Science or Cybersecurity, but essential life skills as well. 
 
 Education
 ------
-West Feliciana High School
-  Saint Francisville, LA
-  2019 - 2023
-  GPA: 3.9
-  ACT: 33
-  Graduated #1 in my Class
+West Feliciana High School<br/>
+  Saint Francisville, LA<br/>
+  2019 - 2023<br/>
+  GPA: 3.9<br/>
+  ACT: 33<br/>
+  Graduated #1 in my Class<br/>
   Awards and Honors: AP Scholar (2021); AP Honors with Distinction (2022, 2023)
 
-Louisiana State University
-  Baton Rouge, LA
-  August 2023 - May 2027
-  Current Junior Undergraduate
-  Current GPA: 4.101
+Louisiana State University<br/>
+  Baton Rouge, LA<br/>
+  August 2023 - May 2027<br/>
+  Current Junior Undergraduate<br/>
+  Current GPA: 4.101<br/>
   Awards and Honors: Currently in Good Standing with the Ogden Honors College; President's Honor Roll (Fall 2023, Spring 2024); Dean's List (Fall 2024, Spring 2025)
 
 Skills
 ------
-Technical:
+Technical:<br/>
   Java, Python, Flutter/Dart, C, Agile Methodology and Scrum Framework, Jira, Microsoft Word, Microsoft PowerPoint, Microsoft Excel
 
-Soft:
+Soft:<br/>
   Verbal and Written Communication, Creative with Ideas and Problem Solving, Hard-Working, Adaptive to Sudden Change, Goal-Oriented with an Ability to Meet Deadlines, Analytical and Strategic Thinking, Quick Learner
 
 Interests
 ------
-Advancements in AI and Cybersecurity, Jailbreaking LLMs, Video Games and Video Game Design, Reading/Literature, History
+Advancements in AI and Cybersecurity, Jailbreaking LLMs, Video Games and Video Game Design, Reading/Literature, History.
 
 <!--
 **Markdown generator**
