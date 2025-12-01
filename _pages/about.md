@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This website was created using GitHub Pages with Jekyll, and is based on the Academic Pages template: <a href=https://github.com/academicpages/academicpages.github.io></a>
+This website was created using GitHub Pages with Jekyll, and is based on the Academic Pages template: https://github.com/academicpages/academicpages.github.io
 
 This page contains information about me, my skills, my interests, etc.
 Above is the navigation bar, which can take you to my Resume for a more complete collection of information about me, as well as my Portfolio of github projects.
@@ -19,19 +19,19 @@ My name is Bryce Shifflett, I'm currently an undergraduate at Louisiana State Un
 Education
 ------
 West Feliciana High School<br/>
-  Saint Francisville, LA<br/>
-  2019 - 2023<br/>
-  GPA: 3.9<br/>
-  ACT: 33<br/>
-  Graduated #1 in my Class<br/>
-  Awards and Honors: AP Scholar (2021); AP Honors with Distinction (2022, 2023)
+  - Saint Francisville, LA
+  - 2019 - 2023
+  - GPA: 3.9
+  - ACT: 33
+  - Graduated #1 in my Class
+  - Awards and Honors: AP Scholar (2021); AP Honors with Distinction (2022, 2023)
 
 Louisiana State University<br/>
-  Baton Rouge, LA<br/>
-  August 2023 - May 2027<br/>
-  Current Junior Undergraduate<br/>
-  Current GPA: 4.101<br/>
-  Awards and Honors: Currently in Good Standing with the Ogden Honors College; President's Honor Roll (Fall 2023, Spring 2024); Dean's List (Fall 2024, Spring 2025)
+  - Baton Rouge, LA
+  - August 2023 - May 2027
+  - Current Junior Undergraduate
+  - Current GPA: 4.101
+  - Awards and Honors: Currently in Good Standing with the Ogden Honors College President's Honor Roll (Fall 2023, Spring 2024); Dean's List (Fall 2024, Spring 2025)
 
 Skills
 ------
