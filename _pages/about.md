@@ -18,7 +18,7 @@ My name is Bryce Shifflett, I'm currently an undergraduate at Louisiana State Un
 
 Education
 ------
-West Feliciana High School<br/>
+West Feliciana High School
   - Saint Francisville, LA
   - 2019 - 2023
   - GPA: 3.9
@@ -26,7 +26,7 @@ West Feliciana High School<br/>
   - Graduated #1 in my Class
   - Awards and Honors: AP Scholar (2021); AP Honors with Distinction (2022, 2023)
 
-Louisiana State University<br/>
+Louisiana State University
   - Baton Rouge, LA
   - August 2023 - May 2027
   - Current Junior Undergraduate
