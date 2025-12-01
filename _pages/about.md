@@ -31,7 +31,7 @@ Louisiana State University
   - August 2023 - May 2027
   - Current Junior Undergraduate
   - Current GPA: 4.101
-  - Awards and Honors: Currently in Good Standing with the Ogden Honors College President's Honor Roll (Fall 2023, Spring 2024); Dean's List (Fall 2024, Spring 2025)
+  - Awards and Honors: Currently in Good Standing with the Ogden Honors College; President's Honor Roll (Fall 2023, Spring 2024); Dean's List (Fall 2024, Spring 2025)
 
 Skills
 ------
